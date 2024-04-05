@@ -1,0 +1,12 @@
+train: '/content/drive/MyDrive/yolov6/dataset/images/train' #train images(relative to 'path')
+val: '/content/drive/MyDrive/yolov6/dataset/images/val' #val images(relative to 'path')
+
+nc: 7
+names:
+  0: person with axe
+  1: person with bomb
+  2: person with gun
+  3: person with harmful objects
+  4: person with knife
+  5: person with scissors
+  6: person with sword
